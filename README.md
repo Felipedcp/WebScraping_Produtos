@@ -1,2 +1,2 @@
-# WebScraping_Produtos
+# Automação Web - Busca de Ofertas
  
