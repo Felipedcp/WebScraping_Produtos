@@ -5,7 +5,7 @@ Esse projeto realiza busca de produtos de forma automatizada nos sites **Google 
 ## Funcionalidades
 - **Busca Automatizada:** Realiza buscas de produtos nos sites **Google Shopping** e **Buscapé**.
 - **WebScraping:** Coleta e organiza os dados dos produtos encontrados
-- **Histórico de Preços:** Atualiza um arquivo excel com as ofertas encontradas, mantendo um histórico de busca e de preços ao longo do tempo, pois também armazena data e hora da busca.
+- **Histórico de Preços:** Atualiza um arquivo excel com as ofertas encontradas, mantendo um histórico de buscas e de preços ao longo do tempo, pois também armazena data e hora da busca.
 - **Notificação por E-mail:** Envia as ofertas encontradas para um endereço de e-mail específico, através do Outlook.
 
 ## Bibliotecas Utilizadas
