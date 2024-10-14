@@ -47,21 +47,21 @@ Estrutura da planilha <code>tabela_ofertas.xlsx</code>
 <table>
  <tr><td><b>Produto</b></td><td><b>Preço</b></td><td><b>Tipo</b></td><td><b>Data</b></td><td><b>Hora</b></td><td><b>Link</b></td></tr>
  
- <tr><td><b>apple iphone 15 128gb 6gb ram com tela super retina xdr 6.1" - celulares em ...
- </b></td><td><b>4599,90
- </b></td><td><b>iphone 15 128 gb
- </b></td><td><b>10/10/2024
- </b></td><td><b>10:23
- </b></td><td><b>[Link]
- </b></td></tr>
+ <tr><td>apple iphone 15 128gb 6gb ram com tela super retina xdr 6.1" - celulares em ...
+ </td><td>4599,90
+ </td><td>iphone 15 128 gb
+ </td><td>10/10/2024
+ </td><td>10:23
+ </td><td>[Link]
+ </td></tr>
 
- <tr><td><b>placa de vídeo rtx 4060 ventus 2x white oc msi nvidia geforce, 8gb, gddr6
- </b></td><td><b>2020,00
- </b></td><td><b>rtx 4060
- </b></td><td><b>10/10/2024
- </b></td><td><b>10:24
- </b></td><td><b>[Link]
- </b></td></tr>
+ <tr><td>placa de vídeo rtx 4060 ventus 2x white oc msi nvidia geforce, 8gb, gddr6
+ </td><td>2020,00
+ </td><td>rtx 4060
+ </td><td>10/10/2024
+ </td><td>10:24
+ </td><td>[Link]
+ </td></tr>
 
 </table>
 <br>
